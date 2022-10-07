@@ -1,0 +1,15 @@
+c:\Users\elija\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.exe
+c:\Users\elija\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.deps.json
+c:\Users\elija\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.runtimeconfig.json
+c:\Users\elija\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.dll
+c:\Users\elija\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\bin\Debug\net6.0\OperatorExercise.pdb
+c:\Users\elija\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.csproj.AssemblyReference.cache
+c:\Users\elija\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\elija\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfoInputs.cache
+c:\Users\elija\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.AssemblyInfo.cs
+c:\Users\elija\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.csproj.CoreCompileInputs.cache
+c:\Users\elija\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.dll
+c:\Users\elija\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\refint\OperatorExercise.dll
+c:\Users\elija\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.pdb
+c:\Users\elija\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\OperatorExercise.genruntimeconfig.cache
+c:\Users\elija\OneDrive\Desktop\repos\Operators-Exercise\OperatorExercise\obj\Debug\net6.0\ref\OperatorExercise.dll
